@@ -11,5 +11,3 @@ where x represents an unknown, and a, b, and c represent known numbers, where a 
 ![Output](outputs/quadratic.jfif)
 
 ![Output](outputs/q.png)
-
-
